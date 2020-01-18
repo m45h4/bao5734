@@ -1,15 +1,61 @@
 The course includes the following modules
 Lectures:
 
-1. Introduction to financial analytics
-2. Introduction to financial markets and basic accounting
-3. Rstudio cloud and simple operations 
-4 .Working with financial data (any data): data sources, tidyverse, descriptives
-5. Data wrangling and visualization: types, basic statistics, uses, application
+1.1. Introduction to financial analytics
+1.2. Introduction to financial markets and basic accounting
+
+2. Rstudio cloud and R: interface and simple operations 
+Rstudio cheatsheat
+https://r4ds.had.co.nz/workflow-basics.html
+
+3. Data wrangling and visualization: types, basic statistics, uses, application
+
+https://r4ds.had.co.nz/data-visualisation.html
+https://r4ds.had.co.nz/transform.html
+
+
+3 .Working with financial data (any data): data sources, tidyverse, descriptives
+https://r4ds.had.co.nz/exploratory-data-analysis.html
+https://r4ds.had.co.nz/data-import.html
+
+
 6. Analytics and visualization: cases in financial analytics 
+
+
 7. introduction to modelling and R
+https://r4ds.had.co.nz/model-building.html
+
 8. Predictive modeling in R: building and assessing simple models
-9. Building regression models
+http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
+
+- Introduction (basics and terminology)
+- A Short Tour of the Predictive Modeling Process
+
+
+9. Introduction to regression models
+http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
+
+
+
+
 10.
 11.
 12.
+
+
+Project:
+1. Source data for a company for last 5 years (annual report data- statements) - dataset1
+same for a competitor - dataset2
+
+
+2. upload it to R
+
+3. visualize data in R - absolute data 
+company 1 vs company 2
+
+4. calculate basic ratios
+compare company 1 to company 2
+
+5. visualise ratios for company 1 and company 2 and compare
+
+6. build
