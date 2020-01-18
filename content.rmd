@@ -1,0 +1,15 @@
+The course includes the following modules
+Lectures:
+
+1. Introduction to financial analytics
+2. Introduction to financial markets and basic accounting
+3. Rstudio cloud and simple operations 
+4 .Working with financial data (any data): data sources, tidyverse, descriptives
+5. Data wrangling and visualization: types, basic statistics, uses, application
+6. Analytics and visualization: cases in financial analytics 
+7. introduction to modelling and R
+8. Predictive modeling in R: building and assessing simple models
+9. Building regression models
+10.
+11.
+12.
