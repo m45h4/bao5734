@@ -39,7 +39,7 @@ https://r4ds.had.co.nz/exploratory-data-analysis.html
 https://r4ds.had.co.nz/data-import.html
 
 
-5. Descriptive analytics
+5. Descriptive analytics for financial data
 Introduction to modeling
 Key Ingredients of model and how to know if a model is good
 Linear regression
@@ -47,31 +47,29 @@ model assessment
 Analytics and visualization: cases in financial analytics 
 
 
-7. introduction to modelling and R
+7. introduction to financial modelling and R
 https://r4ds.had.co.nz/model-building.html
 
-8. Predictive modeling in R: building and assessing simple models
+8. Predictive financial modeling in R: building and assessing simple models
 http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
 
 - Introduction (basics and terminology)
 - A Short Tour of the Predictive Modeling Process
 
-
-9. Introduction to regression models
+9. Introduction to regression models for financial data
 http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
 
+10. Introduction to non-linear regression models for financial data
+
+11. Case studies
+12. Summary
 
 
+## Assessment 1:*
 
-10.
-11.
-12.
-
-
-Project:
+* Project: 25% - group work???*
 1. Source data for a company for last 5 years (annual report data- statements) - dataset1
 same for a competitor - dataset2
-
 
 2. upload it to R
 
@@ -83,4 +81,13 @@ compare company 1 to company 2
 
 5. visualise ratios for company 1 and company 2 and compare
 
-6. build
+6. build a prediction model
+
+
+* Practical assignment * visualization assignment
+with a given data set prepare basic transformation (one of the tidy Tuesday - makeover monday projects)
+
+* Theory test *
+
+
+
