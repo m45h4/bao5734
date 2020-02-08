@@ -67,7 +67,7 @@ http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
 
 ## Assessment 1:*
 
-* Project: 25% - group work???*
+**Project: 25% - group work???**
 1. Source data for a company for last 5 years (annual report data- statements) - dataset1
 same for a competitor - dataset2
 
@@ -84,10 +84,10 @@ compare company 1 to company 2
 6. build a prediction model
 
 
-* Practical assignment * visualization assignment
+**Practical assignment** visualization assignment
 with a given data set prepare basic transformation (one of the tidy Tuesday - makeover monday projects)
 
-* Theory test *
+**Theory test**
 
 
 
