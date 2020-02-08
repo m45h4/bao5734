@@ -1,25 +1,50 @@
 The course includes the following modules
 Lectures:
 
+
+1. Introduction to financial analytics
 1.1. Introduction to financial analytics
 1.2. Introduction to financial markets and basic accounting
 
-2. Rstudio cloud and R: interface and simple operations 
+2. Introduction to practical part
+Workflow and stages: get data -> prepare data -> analyse data -> report data
+
+Rstudio cloud and R: interface and simple operations 
 Rstudio cheatsheat
 https://r4ds.had.co.nz/workflow-basics.html
 
-3. Data wrangling and visualization: types, basic statistics, uses, application
+how to:
+install packages
+do simple math
+tidyverse
+
+3. Financial data:
+
+Sources of financial data and obtaining your data: yahoo finance, uploading csv files
+
+Examining your data: mean, range, missing data, ggplot
+
+Data wrangling and visualization: types, basic statistics, uses, application
 
 https://r4ds.had.co.nz/data-visualisation.html
 https://r4ds.had.co.nz/transform.html
 
 
-3 .Working with financial data (any data): data sources, tidyverse, descriptives
+4. Examining your data
+
+Ratio analysis
+
+Working with financial data (any data): data sources, tidyverse, descriptives
 https://r4ds.had.co.nz/exploratory-data-analysis.html
 https://r4ds.had.co.nz/data-import.html
 
 
-6. Analytics and visualization: cases in financial analytics 
+5. Descriptive analytics
+Introduction to modeling
+Key Ingredients of model and how to know if a model is good
+Linear regression
+model assessment
+Analytics and visualization: cases in financial analytics 
 
 
 7. introduction to modelling and R
