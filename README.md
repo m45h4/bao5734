@@ -1,6 +1,6 @@
 # bao5734
 
-*Be warned! this is is not your traditional finance unit, but more of a financial analytics: modern, sexy and in high demand*
+*Be warned! this is is not your **traditional** finance unit, but more of a financial analytics: modern, sexy and in high demand*
 
 This unit is about how to use financial statement data and non-financial data to understand a company's financial performance, compare it to others and use it for investment decision making.
 
