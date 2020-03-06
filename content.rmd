@@ -56,10 +56,10 @@ http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
 - Introduction (basics and terminology)
 - A Short Tour of the Predictive Modeling Process
 
-9. Introduction to regression models for financial data
+9. Introduction to valuation models for financial data
 http://appliedpredictivemodeling.com/toc Applied Predictive Modeling by Max Kuhn
 
-10. Introduction to non-linear regression models for financial data
+10. Advanced valuation models
 
 11. Case studies
 12. Summary
