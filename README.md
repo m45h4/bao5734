@@ -20,7 +20,7 @@ We will learn how we can develop predictions and use financial and non-financial
 Use `action` parameter to do something.
 
 |left| centre | right|
----
+|---|:---:|---:|
 |aaa|bbb|123|
 |vvv|bbb| gdfgdfg 555|
 hhhh
